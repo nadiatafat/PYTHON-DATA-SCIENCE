@@ -1,12 +1,11 @@
-## Piscine Python for Data Science - Ft_linearegression 
+# Piscine Python for Data Science - Ft_linearegression 
 
 Cette piscine a pour objectif d’apprendre les **fondamentaux du langage Python**, puis de les appliquer à l’analyse de données grâce à des bibliothèques comme **NumPy**, **Pandas** et **Matplotlib**.
-
 Elle couvre les bases essentielles pour construire des *pipelines data simples*, manipuler des datasets, visualiser des distributions et comprendre les principes de la programmation scientifique.
 
-# Exemple de mini-projet - ft_linearegression
+### Exemple de mini-projet - ft_linearegression
 
-> Analyse d’un dataset simple : distribution des kilomètres de véhicules d’occasion, visualisation des tendances et création d’un modèle de régression linéaire de base.
+Analyse d’un dataset simple : distribution des kilomètres de véhicules d’occasion, visualisation des tendances et création d’un modèle de régression linéaire de base.
 
 ---
 
